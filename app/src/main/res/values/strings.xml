@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dailyselfie</string>
+    <string name="notiTittle">Daily Selfie</string>
+    <string name="notiContent">Time for another selfie</string>
+</resources>
